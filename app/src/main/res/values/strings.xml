@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS fernanda</string>
+    <string name="status">Status</string>
+    <string name="deskripsi_singkat_dari_agenda">Deskripsi singkat dari agenda.</string>
+    <string name="nama_agenda">Nama Agenda</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="daftar_agenda">Daftar Agenda</string>
+    <string-array name="status_options">
+        <item>Selesai</item>
+        <item>Belum Selesai</item>
+    </string-array>
+</resources>
